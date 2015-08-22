@@ -1,0 +1,16 @@
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\bin\Debug\Color_Coding_Resistor.exe
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\bin\Debug\Color_Coding_Resistor.pdb
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.Form1.resources
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.Properties.Resources.resources
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.csproj.GenerateResource.Cache
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.exe
+C:\Users\Sudhir Pratap Yadav\AppData\Local\Temporary Projects\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.pdb
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.exe
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.pdb
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\bin\Debug\Color_Coding_Resistor.exe
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\bin\Debug\Color_Coding_Resistor.pdb
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.Form1.resources
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.Properties.Resources.resources
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Color_Coding_Resistor\Color_Coding_Resistor\obj\Debug\Color_Coding_Resistor.csproj.GenerateResource.Cache
